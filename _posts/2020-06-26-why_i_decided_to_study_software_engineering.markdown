@@ -1,0 +1,10 @@
+---
+layout: post
+title:      "Why I decided to study Software Engineering"
+date:       2020-06-26 22:07:47 +0000
+permalink:  why_i_decided_to_study_software_engineering
+---
+
+
+Since I was a little kid I would always see my dad very intrested and captured by anything tech related. Although he loved all that stuff my dad unfortunately wasn't able to pursue his passion for tech. My dad is an immigrant so none of his highschool education was valid here in the United States, beacause of that my dad had to do what most immigrants had to do. He would work super long hours of physical labor for barley any money just to get us by. When I originally graduated high school I wasn't in a good place mentally in my life none the less I went to college because it's what my parents wanted me to do. I spent a whole year in school most classes I was barley passing and becuase I didn't even originally want to go after that year i decided to drop out. That was back in 2018 and now my life is better and I personally am the one that wants to seek out my education and form a carrer. I've spent two years in the server industry and I can say that this is not what I want to be doing for the rest of my life. A couple of months ago my dad had someone come fix his computer and the person that fixed it was telling him about this school called Flatiron. My dad being the little geek that he is was super excited to tell me about it and I started to look more into it. After a quick search and an email later I was booked for a zoom meeting and was accepted pretty quick the rest went by pretty fast and here I am learning to code. My dad loves to hear me talk about my lessons and how it's going. I'm hoping that when I graduate I can encourage him as well now that he's older and no longer has to provide for a whole family to pursue his passion here at Flatiron as well. Until then I am looking forward to all of the things I have to learn here and all of the people I am going to get to meet and bond with. 
+
